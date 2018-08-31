@@ -1,7 +1,4 @@
 <!-- About -->
-<div class="primaryhead d-flex">
-  <div class="overlay"></div>
-</div>
 <section class="content-section bg-light">
   <div class="container">
     <div class="row">
@@ -46,6 +43,21 @@
               </h4>
               <p> Cursé la Licenciatura de <b>Ingeniería en Computación</b> orientada
               a <b>Ingeniería de Software</b>, de septiembre de 2014 a julio de 2018.</p>
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid text-center">
+          <div class="row">
+            <div class="col-sm-4 center-block">
+              <a href="http://www.cua.uam.mx/alumnos/lenguas-extranjeras" target="_blank">
+                <img class="img-circle center-block" src="img/lenguas.jpg" alt="Coordinación de lenguas" width="200">
+              </a>
+              <h4>
+                <strong>Universidad Autónoma Metropolitana Coordinación de Lenguas
+                Unidad Cuajimalpa</strong>
+              </h4>
+              <p> Tomé cursos de <b>inglés</b>, obteniedo el <b>Nivel B1 (Intermedio)</b> según el
+              marco europeo de referencia de lenguas.</p>
             </div>
           </div>
         </div>

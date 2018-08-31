@@ -1,12 +1,11 @@
 <!-- Portfolio -->
-<div class="primaryhead d-flex">
-  <div class="overlay"></div>
-</div>
 <section class="content-section">
   <div class="container">
     <div class="content-section-heading text-center">
       <h1 class="mb-0">Portafolio</h1>
       <h2 class="mb-5">Proyectos recientes</h2>
+      <p>Los documentos de algunos proyectos se pueden descargar dando click sobre
+      la imagen, código y demás se puede encontrar en mi GitHub al pie de la página.</p>
     </div>
     <div class="row no-gutters">
       <div class="col-lg-6">
@@ -65,7 +64,7 @@
               para optimización multi-objetivo</p>
             </span>
           </span>
-          <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+          <img class="img-fluid" src="img/portfolio-5.jpg" alt="">
         </a>
       </div>
     </div>

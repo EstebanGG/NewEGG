@@ -54,6 +54,9 @@
       </ul>
     </nav>
 
+		<div class="primaryhead d-flex">
+		  <div class="overlay"></div>
+		</div>
     <div id="masterChange">
       <!-- Home -->
       <div class="masthead d-flex">

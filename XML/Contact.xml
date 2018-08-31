@@ -1,7 +1,4 @@
 <!-- Contact -->
-<div class="primaryhead d-flex">
-  <div class="overlay"></div>
-</div>
 <div class="container mb-5">
   <div class="container-fluid bg-grey">
     <h1 class="text-center space-t-b">Contacto</h1>
@@ -13,20 +10,23 @@
         <p><span class="glyphicon glyphicon-envelope"></span> esteban.gg@outook.com</p>
       </div>
       <div class="col-sm-7 slideanim">
-        <div class="row">
-          <div class="col-sm-6 form-group">
-            <input class="form-control" id="name" name="name" placeholder="Nombre" type="text" required>
+        <form action="mailto:esteban.gg@outlook.com" method="post" enctype="text/plain">
+          <div class="row">
+            <div class="col-sm-6 form-group">
+              <input class="form-control" id="name" name="Nombre" placeholder="Nombre" type="text" required>
+            </div>
+            <div class="col-sm-6 form-group">
+              <input class="form-control" id="email" name="Correo" placeholder="Correo" type="email" required>
+            </div>
           </div>
-          <div class="col-sm-6 form-group">
-            <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+          <textarea class="form-control" id="comments" name="Comentarios" placeholder="Comentario" rows="5" maxlength="300" style="resize:none" required></textarea><br>
+          <div class="row">
+            <div class="col-sm-12 form-group">
+              <p> Todos los campos son obligatorios.
+              <button class="btn btn-default pull-right" type="submit">Enviar</button></p>
+            </div>
           </div>
-        </div>
-        <textarea class="form-control" id="comments" name="comments" placeholder="Comentario" rows="5"></textarea><br>
-        <div class="row">
-          <div class="col-sm-12 form-group">
-            <button class="btn btn-default pull-right" type="submit">Enviar</button>
-          </div>
-        </div>
+        </form>
       </div>
     </div>
   </div>
