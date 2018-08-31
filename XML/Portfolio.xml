@@ -1,0 +1,73 @@
+<!-- Portfolio -->
+<div class="primaryhead d-flex">
+  <div class="overlay"></div>
+</div>
+<section class="content-section">
+  <div class="container">
+    <div class="content-section-heading text-center">
+      <h1 class="mb-0">Portafolio</h1>
+      <h2 class="mb-5">Proyectos recientes</h2>
+    </div>
+    <div class="row no-gutters">
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="http://estebangg.ga/LIC-DCNI_2017_SSOpenGL.pdf" target="_blank">
+          <span class="caption">
+            <span class="caption-content">
+              <p><strong>Colaboración en proyecto del Simposio LIC-DCNI 2017</strong></p>
+              <p class="mb-0">Sistema solar en OpenGL</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <p><strong>Proyecto terminal de licenciatura</strong></p>
+              <p class="mb-0">Lectura eficiente de etiquetas RFID mediante algoritmos
+                bio-inspirados</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <p><strong>Colaboración en proyecto</strong></p>
+              <p class="mb-0">Desarrollo de una plataforma computacional para el
+              análisis y diseño de algoritmos evolutivos multi-objetivo</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="http://estebangg.ga/SCMA_2018_29.pdf" target="_blank">
+          <span class="caption">
+            <span class="caption-content">
+              <p><strong>Proyecto de SCMA UAM-C 2018</strong></p>
+              <p class="mb-0">Estudio comparativo del sistema inmune artificial
+              en problemas de optimización global</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <a class="portfolio-item" href="#">
+          <span class="caption">
+            <span class="caption-content">
+              <p><strong>Anteproyecto de investigación</strong></p>
+              <p class="mb-0">Sistema inmune artificial basado en descomposición
+              para optimización multi-objetivo</p>
+            </span>
+          </span>
+          <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

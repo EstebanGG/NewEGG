@@ -1,0 +1,11 @@
+<!-- Home -->
+<div class="masthead d-flex">
+  <div class="container text-center my-auto">
+    <h1 class="mb-1 text-white">Esteban Gamboa García</h1>
+    <h3 class="mb-5 text-white">
+      <em>Ingeniero en computación</em>
+    </h3>
+    <a class="btn btn-primary btn-xl js-scroll-trigger" onclick="loadAbout()" href="#page-top">Acerca de</a>
+  </div>
+  <div class="overlay"></div>
+</div>

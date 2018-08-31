@@ -1,0 +1,55 @@
+<!-- About -->
+<div class="primaryhead d-flex">
+  <div class="overlay"></div>
+</div>
+<section class="content-section bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <h1 class="text-center">Acerca de mí</h1>
+        <h2 class="text-info">¿Quién soy?</h2>
+        <p class="lead mb-5">Soy Esteban Gamboa García, Mexicano, curioso, alegre y soñador. Me
+        apasiona la tecnlogía, en sí el desarrollo de software, estoy convencido de que las
+        oportunidades no llegan solas, hay que ir por ellas. Mi meta principal en la vida es
+        llegar a terminar una maestría, para así administrar proyectos de sofware o emprender
+        mi propio negocio.</p>
+        <h2 class="text-info">Estudios</h2>
+        <div class="container-fluid text-center">
+          <div class="row">
+            <div class="col-sm-4">
+              <a href="http://www.ceb4-2licjesusreyesheroles.edu.mx/" target="_blank">
+                <img class="img-circle center-block" src="img/CEB.jpg" alt="CEB 4/2" width="200">
+              </a>
+              <h4>
+                <strong>CEB 4/2 "Lic. Jesús Reyes Heroles"</strong>
+              </h4>
+              <p> Cursé el bachillerato y tomé la capacitación de <b>Informática</b>, de Agosto de 2011 a Julio de 2014.</p>
+            </div>
+            <div class="col-sm-4">
+              <a href="https://www.uac.edu.co/" target="_blank">
+                <img class="img-circle center-block" src="img/UAC.jpg" alt="UAC" width="200">
+              </a>
+              <h4>
+                <strong>Universidad Autónoma del Caribe</strong>
+              </h4>
+              <p> Realizé una movilidad académica, cursando materias de los programas de
+              pregrado <b>Ingeniería de Sistemas</b> y <b>Tecnología en Análisis y
+              Diseño de Sistemas y Computación </b>, de agosto de 2017 a diciembre de
+              2017.</p>
+            </div>
+            <div class="col-sm-4">
+              <a href="http://www.cua.uam.mx/" target="_blank">
+                <img class="img-circle center-block" src="img/uamComp.jpg" alt="UAM Lic. Ing. Computación" width="200">
+              </a>
+              <h4>
+                <strong>Universidad Autónoma Metropolitana Unidad Cuajimalpa</strong>
+              </h4>
+              <p> Cursé la Licenciatura de <b>Ingeniería en Computación</b> orientada
+              a <b>Ingeniería de Software</b>, de septiembre de 2014 a julio de 2018.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

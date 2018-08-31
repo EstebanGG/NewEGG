@@ -1,0 +1,33 @@
+<!-- Contact -->
+<div class="primaryhead d-flex">
+  <div class="overlay"></div>
+</div>
+<div class="container mb-5">
+  <div class="container-fluid bg-grey">
+    <h1 class="text-center space-t-b">Contacto</h1>
+    <div class="row">
+      <div class="col-sm-5">
+        <p>Contáctame y te responderé dentro de las 24 horas.</p>
+        <p><span class="glyphicon glyphicon-map-marker"></span> Ciudad de México, MX</p>
+        <p><span class="glyphicon glyphicon-phone"></span> +52 55 24 20 17 80</p>
+        <p><span class="glyphicon glyphicon-envelope"></span> esteban.gg@outook.com</p>
+      </div>
+      <div class="col-sm-7 slideanim">
+        <div class="row">
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="name" name="name" placeholder="Nombre" type="text" required>
+          </div>
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+          </div>
+        </div>
+        <textarea class="form-control" id="comments" name="comments" placeholder="Comentario" rows="5"></textarea><br>
+        <div class="row">
+          <div class="col-sm-12 form-group">
+            <button class="btn btn-default pull-right" type="submit">Enviar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

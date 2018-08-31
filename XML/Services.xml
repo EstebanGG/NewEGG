@@ -1,0 +1,362 @@
+<!-- Services -->
+<div class="primaryhead d-flex">
+  <div class="overlay"></div>
+</div>
+<section class="content-section bg-primary text-white text-center">
+  <div class="container">
+    <div class="content-section-heading">
+      <h1 class="mb-0">Conocimientos</h1>
+      <p class="mb-5">A continuación se muestran las tecnologías que conozco y cuanta experiencia tengo en cada una de ellas.</p>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/html5.png" alt="HTML5" width="100">
+        <h4>
+          <strong>HTML5</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+            100%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/css3.png" alt="CSS3" width="100">
+        <h4>
+          <strong>CSS3</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/javascript.png" alt="JavaScript" width="100">
+        <h4>
+          <strong>JavaScript</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/C.png" alt="C" width="100">
+        <h4>
+          <strong>C</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+            100%
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/Cpp.png" alt="C++" width="100">
+        <h4>
+          <strong>C++</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+            60%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/php.png" alt="php" width="100">
+        <h4>
+          <strong>php</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/java.png" alt="Java" width="100">
+        <h4>
+          <strong>Java</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/UML.png" alt="UML" width="100">
+        <h4>
+          <strong>Unified Modeling Lenguage</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+            100%
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/matlab.png" alt="MATLAB" width="100">
+        <h4>
+          <strong>MATLAB</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+            70%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/mathematica.png" alt="Wolfram Mathematica" width="100">
+        <h4>
+          <strong>Wolfram Mathematica</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+            70%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/python.png" alt="Python" width="100">
+        <h4>
+          <strong>Python</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+            70%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/bootstrap.png" alt="Bootstrap" width="100">
+        <h4>
+          <strong>Bootstrap</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/android.png" alt="Android" width="100">
+        <h4>
+          <strong>Android</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+            60%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/ajax.png" alt="Ajax" width="100">
+        <h4>
+          <strong>Ajax</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/jquery.png" alt="jQuery" width="100">
+        <h4>
+          <strong>jQuery</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+            50%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/nodejs.png" alt="Nodejs" width="100">
+        <h4>
+          <strong>Nodejs</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
+            40%
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/mysql.png" alt="MySQL" width="100">
+        <h4>
+          <strong>MySQL</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/oracledb.png" alt="Oracle Data Base" width="100">
+        <h4>
+          <strong>Oracle Data Base</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/mongodb.png" alt="mongoDB" width="100">
+        <h4>
+          <strong>mongoDB</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
+            40%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/linux.png" alt="Linux" width="100">
+        <h4>
+          <strong>Linux</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/windows.png" alt="Windows" width="100">
+        <h4>
+          <strong>Windows</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/exel.png" alt="Exel" width="100">
+        <h4>
+          <strong>Exel</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/word.png" alt="Word" width="100">
+        <h4>
+          <strong>Word</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+            100%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/powerpoint.png" alt="Powerpoint" width="100">
+        <h4>
+          <strong>Powerpoint</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/R.png" alt="R" width="100">
+        <h4>
+          <strong>R</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+            60%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+        <img class="img-responsive center-block" src="img/netbeans.png" alt="NetBeans" width="100">
+        <h4>
+          <strong>NetBeans</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+            80%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+        <img class="img-responsive center-block" src="img/sublime.png" alt="Sublime Text 3" width="100">
+        <h4>
+          <strong>Sublime Text 3</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+            100%
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6">
+        <img class="img-responsive center-block" src="img/atom.png" alt="Atom" width="100">
+        <h4>
+          <strong>Atom</strong>
+        </h4>
+        <div class="progress w-75 center-block">
+          <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+          aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+            90%
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
